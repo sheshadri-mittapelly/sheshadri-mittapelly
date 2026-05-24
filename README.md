@@ -1,8 +1,5 @@
 # Hi there! 👋 <img src="https://raw.githubusercontent.com/martin3zra/martin3zra/master/sign.gif" width="30px">
 
-<p align="center">
-  <img src="https://komarev.com/normal-badge.svg?username=sheshadri-mittapelly&color=blue&style=flat-square" alt="sheshadri-mittapelly profile views" />
-</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -22,15 +19,6 @@ Beyond crunching data, I am deeply invested in digital content creation! I share
 * 📊 Believer in the power of data-driven decision-making (and beautifully formatted dashboards).
 * ☕ Fueled by curiosity, continuous learning, and a good cup of coffee.
 * 💬 Ask me about database queries, data cleaning, or the latest tech trends!
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sheshadri-mittapelly&theme=onedark&column=7&margin-w=15" alt="sheshadri-mittapelly trophies" />
-  </a>
-</p>
 
 ---
 
