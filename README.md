@@ -73,4 +73,23 @@ Beyond crunching data, I am deeply invested in digital content creation! I share
 </p>
 
 <p align="center">
-  <a href="
+  <a href="https://github.com/cyberbunny/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheshadri-mittapelly&theme=tokyonight" alt="Sheshadri's GitHub Streak" />
+  </a>
+</p>
+
+---
+
+## 🤝 Let's Connect!
+
+Thank you for visiting my profile! I am always open to exploring new opportunities, collaborating on data projects, or just chatting about technology. Feel free to reach out to me through any of the platforms below:
+
+* **LinkedIn:** [linkedin.com/in/sheshadrimittapelly](https://www.linkedin.com/in/sheshadrimittapelly)
+* **YouTube:** [Your YouTube Channel](YOUR_YOUTUBE_URL)
+* **Medium:** [Your Medium Blog](YOUR_MEDIUM_URL)
+* **Instagram:** [Your Instagram Profile](YOUR_INSTAGRAM_URL)
+* **Portfolio:** [Your Website URL](YOUR_WEBSITE_URL)
+
+<p align="center" style="margin-top: 20px;">
+  🏁 <i>"In God we trust, all others must bring data."</i> — W. Edwards Deming
+</p>
